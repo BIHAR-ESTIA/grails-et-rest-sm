@@ -202,4 +202,4 @@ Ce projet nous a permis de découvrir et de mettre en application les concepts s
 ## Auteurs
 
 - [Said Abderrahmane](https://github.com/saidabderrahmane)
-- [ Mahdi DADDI HAMMOU](https://github.com/mahdidhammou)
+- [ Mahdi DADDI HAMMOU](https://github.com/mehdidhammou)
